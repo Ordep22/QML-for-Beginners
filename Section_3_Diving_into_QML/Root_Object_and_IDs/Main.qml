@@ -2,6 +2,9 @@ import QtQuick
 
 /*
 The parent is called 'root' because it is the top-level object.
+So, in a file, we have just one root object. This is because Qt Core
+uses the parent and child hierarchy to manage memory, so when the
+parent is destroyed, all of the other elements are too.
 */
 
 Window {
