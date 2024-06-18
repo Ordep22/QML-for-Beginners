@@ -1,5 +1,0 @@
-module Root_Object_and_IDs
-typeinfo appRoot_Object_and_IDs.qmltypes
-prefer :/Root_Object_and_IDs/
-Main 1.0 Main.qml
-
