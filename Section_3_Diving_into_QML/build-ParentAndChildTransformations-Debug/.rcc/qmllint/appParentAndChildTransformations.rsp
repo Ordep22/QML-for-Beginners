@@ -1,0 +1,10 @@
+--bare
+-I
+C:/Users/Pedro Pereira/Documents/Git/QML-for-Beginners/Section_3_Diving_into_QML/build-ParentAndChildTransformations-Debug
+-I
+C:/Qt/6.6.3/mingw_64/./qml
+--resource
+C:/Users/Pedro Pereira/Documents/Git/QML-for-Beginners/Section_3_Diving_into_QML/build-ParentAndChildTransformations-Debug/.rcc/qmake_ParentAndChildTransformations.qrc
+--resource
+C:/Users/Pedro Pereira/Documents/Git/QML-for-Beginners/Section_3_Diving_into_QML/build-ParentAndChildTransformations-Debug/.rcc/appParentAndChildTransformations_raw_qml_0.qrc
+C:/Users/Pedro Pereira/Documents/Git/QML-for-Beginners/Section_3_Diving_into_QML/ParentAndChildTransformations/Main.qml
