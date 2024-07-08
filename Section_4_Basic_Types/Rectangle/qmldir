@@ -1,0 +1,5 @@
+module Rectangle
+typeinfo appRectangle.qmltypes
+prefer :/Rectangle/
+Main 1.0 Main.qml
+
